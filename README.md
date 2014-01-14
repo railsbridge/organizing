@@ -11,3 +11,5 @@ Then, have conversation about the workshop as comments on the issues. Just make 
 
 :racehorse:
 
+If you're an SF metaorganizer, [this private list of organizers](https://docs.google.com/spreadsheet/ccc?key=0Al9a5yeo4q0AdEtJVDlrb3dXckd4bFktUGptM2VkWmc#gid=1) is useful to you.
+
