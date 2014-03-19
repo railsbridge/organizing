@@ -7,7 +7,7 @@ Start by [creating an issue](https://github.com/railsbridge/organizing/issues/ne
 
 When organizing, keep in mind that our mission is to diversify the software developemnt community, so we just ask that 1) Your workshop be targeted to a group of people that are under represented in the dev community and 2) that it is free of charge to students. For example, in San Francisco we ask that men who want to join us either volunteer to teach, or attend as the +1 of a woman. We emphasize that we are INCLUSIVE, not exclusive, and are flexible with individual attendees on a case-by-case basis. 
 
-Then, have a conversation about the workshop as comments on the issues. Just make sure to not say confidential things, like people's phone numbers, because, the whole point of this is that **everyone can see** how we're organizing workshops. 
+Then, let's have a conversation about the workshop in the comments section on the issue you opened. Just make sure to not say confidential things -- like people's phone numbers. The whole point of this is that **everyone can see** how we're organizing workshops. 
 
 (Feel free to also create issues if this experiment is working or not working for you. :wink:)
 
