@@ -4,7 +4,7 @@ Planning RailsBridge workshops should be visibile and transparent. Visibility ma
 
 When organizing, remember the mission of RailsBridge is to diversify and improve the software developemnt community. We ask that:
 * Your workshop reach out to a group of people that are underrepresented in the community. That might be women, people of color, non-native English speakers, LGBQA communities, or other marginalized groups.
-* Your workshop is free for students to attend.
+* Your workshop is free for students to attend. We want to remove as many barriers to entry as possible.
 
 ## Helping Out
 This repo is the place to come if you want to propose a workshop, organize a workshop, or sponsor a workshop by offering space or :moneybag:. 
@@ -57,7 +57,7 @@ If you don't see an issue that fits what you're looking for, you can email hello
 ## GitHub ProTips™
 
 #### Emoji
-All these cool pictures (like :neckbeard:, :nail_care:, :rat:, and :space_invader: ) the [Emoji](http://en.wikipedia.org/wiki/Emoji) font. To insert emoji into your comments, type the name of the emoji, surrounded by colons. `:dolphin:` will become :dolphin` when the mardown is rendered. Check out the [Emoji Cheat Sheet](http://www.emoji-cheat-sheet.com/) for the names of all the Emoji!
+All these cool pictures (like :neckbeard:, :nail_care:, :rat:, and :space_invader: ) are the [Emoji](http://en.wikipedia.org/wiki/Emoji) font. To insert emoji into your comments, type the name of the emoji, surrounded by colons. `:dolphin:` will become :dolphin: when the mardown is rendered. Check out the [Emoji Cheat Sheet](http://www.emoji-cheat-sheet.com/) for the names of all the Emoji!
 
 #### Email and Notifications
 If you've turned off your GitHub notifications, you won't be notified when people mention you or respond to you on issues. If you hate getting email, you can always check your [notifications](https://github.com/notifications) page. Check your notification settings [here](https://github.com/settings/notifications).
