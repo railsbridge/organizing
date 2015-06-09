@@ -16,7 +16,7 @@ Here are some specific ways you can help out:
 #### Kick off a Workshop
 If you want to kick off a workshop, start by [creating an issue](https://github.com/railsbridge/organizing/issues/new). Create one issue for each workshop. It's awesome if the title includes a date, and location, as far as you know. (And you can always edit the issue.) 
 
-Mention your collaborators if you know who they will be, make [todo lists](https://github.com/blog/1542-task-lists-in-gist) for everything that needs to be done, and add some labels. Check out the [first one](https://github.com/railsbridge/organizing/issues/1) as an example, and feel free to copy [this gist](https://gist.githubusercontent.com/rachelmyers/55f5d2720ec957a499bb/raw/1c31bac5bb56f7da29a05ed52c8863d99479b2a6/issue_template.md) as a template when creating a new issue. :bowtie:
+Mention your collaborators if you know who they will be, make [todo lists](https://github.com/blog/1542-task-lists-in-gist) for everything that needs to be done, and add some labels. Check out the [first one](https://github.com/railsbridge/organizing/issues/1) as an example, and feel free to copy [this gist](https://gist.githubusercontent.com/rachelmyers/55f5d2720ec957a499bb/raw/6556ff1885d350d7373837191875fde1016cbbcb/issue_template.md) as a template when creating a new issue. :bowtie:
 
 Then have a conversation to hammer out the details of the workshop in the comments section. (Make sure to not say confidential things, like people's phone numbers. The whole point of this is that **everyone can see** how we're organizing workshops.) 
 
