@@ -3,7 +3,7 @@
 Planning RailsBridge workshops should be visible and transparent. Visibility makes it easier for us to help each other and show new organizers how we work. To jump in, check out the [list](https://github.com/railsbridge/organizing/issues) of workshops currently being planned. 
 
 When organizing, remember the mission of RailsBridge is to diversify and improve the software development community. We ask that:
-* Your workshop reach out to a group of people that are under-represented in the community. That might be women, people of color, non-native English speakers, LGBQA communities, or other marginalized groups.
+* Your workshop reach out to a group of people that are underrepresented in the community. That might be women, people of color, non-native English speakers, LGBQA communities, or other marginalized groups.
 * Your workshop is free for students to attend. We want to remove as many barriers to entry as possible.
 
 ## Helping Out
