@@ -29,6 +29,8 @@ If you'd like to organize a workshop, you can filter the workshops being planned
 
 There are sometimes workshops that have organizers, but the organizers would love help, so feel free to browse through [all the issues](https://github.com/railsbridge/organizing/issues). If you see something that's not progressing, leave a comment, letting the organizers know you're available to pitch in. (Also, browsing the issues is a great way to get a feel for the work that goes into a workshop.)
 
+We have very thorough documentation in our [Workshop Cookbook](https://github.com/railsbridge/docs/wiki/Cookbook). Check it out!
+
 If you're an SF metaorganizer, [this private list of organizers](https://docs.google.com/spreadsheet/ccc?key=0Al9a5yeo4q0AdEtJVDlrb3dXckd4bFktUGptM2VkWmc#gid=1) may be useful to you. :racehorse:
 
 #### Sponsor a workshop
@@ -44,7 +46,7 @@ A sample message might be:
 
 > I talked with our facilities manager, and everyone on the RSVP list can skip signing with security when they come in. Let me know if it's a deal; I'm super excited to make this happen! 
 
-If your company doesn't have space to host a workshop you can still sponsor! Filter the workshops by those that [need a venue and sponsor](https://github.com/railsbridge/organizing/labels/Needs%20Venue/Sponsor) or those that only [need a sponsor](https://github.com/railsbridge/organizing/labels/Needs%20Sponsor) and chime in to offer support. 
+If your company doesn't have space to host a workshop, you can still sponsor! Filter the workshops by those that [need a venue and sponsor](https://github.com/railsbridge/organizing/labels/Needs%20Venue/Sponsor) or those that only [need a sponsor](https://github.com/railsbridge/organizing/labels/Needs%20Sponsor) and chime in to offer support. 
 
 An sample message might be:
 
@@ -57,7 +59,7 @@ If you don't see an issue that fits what you're looking for, you can email hello
 ## GitHub ProTips™
 
 #### Emoji
-All these cool pictures (like :neckbeard:, :nail_care:, :rat:, and :space_invader: ) are the [Emoji](http://en.wikipedia.org/wiki/Emoji) font. To insert emoji into your comments, type the name of the emoji, surrounded by colons. `:dolphin:` will become :dolphin: when the mardown is rendered. Check out the [Emoji Cheat Sheet](http://www.emoji-cheat-sheet.com/) for the names of all the Emoji!
+All these cool pictures (like :neckbeard:, :nail_care:, :rat:, and :space_invader: ) are the [Emoji](http://en.wikipedia.org/wiki/Emoji) font. To insert emoji into your comments, type the name of the emoji, surrounded by colons. `:dolphin:` will become :dolphin: when the markdown is rendered. Check out the [Emoji Cheat Sheet](http://www.emoji-cheat-sheet.com/) for the names of all the Emoji!
 
 #### Email and Notifications
 If you've turned off your GitHub notifications, you won't be notified when people mention you or respond to you on issues. If you hate getting email, you can always check your [notifications](https://github.com/notifications) page. Check your notification settings [here](https://github.com/settings/notifications).
